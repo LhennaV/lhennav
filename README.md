@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4c1d95,7c3aed,a78bfa&height=200&section=header&text=Lhenna-Marie%20Velasco&fontColor=ffffff&fontSize=46&fontAlignY=40&animation=fadeIn" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=UI%2FUX+Designer;Frontend+Developer;React+%2B+Next.js" />
+<img src="https://raw.githubusercontent.com/LhennaV/lhennav/main/header.svg" alt="Lhenna-Marie Velasco" width="100%" />
 
 <br/>
 
@@ -43,7 +41,7 @@ I design interfaces first and code them when I have to. Most of my work is on gr
 
 ### [Trybe](https://github.com/LhennaV/Trybe) · In progress
 
-<a href="https://trybe-puce.vercel.app/"><img src="https://raw.githubusercontent.com/LhennaV/lhennav/main/assets/trybe.png" alt="Trybe" width="100%" /></a>
+<a href="https://trybe-puce.vercel.app/"><img src="https://raw.githubusercontent.com/LhennaV/lhennav/main/trybe.png" alt="Trybe" width="100%" /></a>
 
 Mobile-first app for trading hobby tools and equipment: item for item, or with a cash or item top-up. I handle the UI/UX and frontend.
 
@@ -54,7 +52,7 @@ Mobile-first app for trading hobby tools and equipment: item for item, or with a
 
 ### [Kasafide](https://github.com/LhennaV/Kasafide)
 
-<img src="https://raw.githubusercontent.com/LhennaV/lhennav/main/assets/kasafide.png" alt="Kasafide" width="100%" />
+<img src="https://raw.githubusercontent.com/LhennaV/lhennav/main/kasafide.png" alt="Kasafide" width="100%" />
 
 Verified web-based housing rental and listing system with demand analytics. It's our group capstone, built to fight rental fraud and low-quality listings in online property search. It covers seller verification, search by location and price, and demand tracking for rental trends. Renters can also explore properties by barangay through Leaflet.js map overlays. I worked on the UI/UX in Figma and the frontend.
 
@@ -64,7 +62,7 @@ Verified web-based housing rental and listing system with demand analytics. It's
 
 ### [G-Track](https://github.com/trstnrbrd/G-Track)
 
-<img src="https://raw.githubusercontent.com/LhennaV/lhennav/main/assets/gtrack.png" alt="G-Track" width="100%" />
+<img src="https://raw.githubusercontent.com/LhennaV/lhennav/main/gtrack.png" alt="G-Track" width="100%" />
 
 GCash transaction management system, built by a two-person team. I designed the user flows, wireframes, and prototypes in Figma, then led the frontend. The focus is a simple interface for cash-in and cash-out, service charge tracking, balance monitoring, and end-of-day reports.
 
@@ -74,7 +72,7 @@ GCash transaction management system, built by a two-person team. I designed the 
 
 ### [lhenna-portfolio](https://lhennav.github.io/lhenna-portfolio/)
 
-<a href="https://lhennav.github.io/lhenna-portfolio/"><img src="https://raw.githubusercontent.com/LhennaV/lhennav/main/assets/portfolio.png" alt="lhenna-portfolio" width="100%" /></a>
+<a href="https://lhennav.github.io/lhenna-portfolio/"><img src="https://raw.githubusercontent.com/LhennaV/lhennav/main/portfolio.png" alt="lhenna-portfolio" width="100%" /></a>
 
 My personal portfolio. I design it in Figma and build it with Next.js, TypeScript, and Tailwind CSS. It has case studies for my projects, and it's deployed on GitHub Pages.
 
