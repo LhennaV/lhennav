@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2d1b4e,6d4aa8,e8a15c&height=200&section=header&text=Lhenna-Marie%20Velasco&fontColor=ffffff&fontSize=46&fontAlignY=40&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4c1d95,7c3aed,a78bfa&height=200&section=header&text=Lhenna-Marie%20Velasco&fontColor=ffffff&fontSize=46&fontAlignY=40&animation=fadeIn" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=UI%2FUX+Designer;Frontend+Developer;React+%2B+Next.js" />
 
@@ -45,7 +45,7 @@ I design interfaces first and code them when I have to. Most of my work is on gr
 
 <a href="https://trybe-puce.vercel.app/"><img src="https://raw.githubusercontent.com/LhennaV/lhennav/main/assets/trybe.png" alt="Trybe" width="100%" /></a>
 
-Mobile-first app for trading hobby tools and equipment: item for item, or with a cash or item top-up. I lead design and frontend, and [Tristan](https://github.com/trstnrbrd) handles the backend.
+Mobile-first app for trading hobby tools and equipment: item for item, or with a cash or item top-up. I handle the UI/UX and frontend.
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-24292e?style=flat-square&logo=googlechrome&logoColor=white)](https://trybe-puce.vercel.app/)
 [![Repository](https://img.shields.io/badge/View_Repository-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/LhennaV/Trybe)
